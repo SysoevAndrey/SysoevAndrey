@@ -1,4 +1,4 @@
-### Frontend-developer 💻
+### iOS-developer 💻
 
 <!--
 **SysoevAndrey/SysoevAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
