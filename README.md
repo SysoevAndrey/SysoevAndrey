@@ -1,16 +1,13 @@
-### Frontend-developer 💻
+![](https://komarev.com/ghpvc/?username=SysoevAndrey&color=46ae8f)
 
-<!--
-**SysoevAndrey/SysoevAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend/iOS-developer 💻
 
-Here are some ideas to get you started:
+- React
+- Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Most used languages on GitHub:
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); justify-items: center;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SysoevAndrey&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=SysoevAndrey&show_icons=true&theme=transparent&hide_border=true" />
+</div>
